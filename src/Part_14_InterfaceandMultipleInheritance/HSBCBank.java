@@ -1,6 +1,6 @@
 package Part_14_InterfaceandMultipleInheritance;
 
-public class HSBCBank implements USBank, BrazilBank {//We are achieving multiple inheritance. Is a relationship
+public class HSBCBank implements USBank, BrazilBank {//We are achieving multiple inheritance. Is-A relationship
 	//If class is implementing any interface, then it is mandatory to override/define all the methods of interface.
 	//Methods overriding from USBank.
 	public void credit(){

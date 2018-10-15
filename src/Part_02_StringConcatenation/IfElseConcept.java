@@ -32,7 +32,7 @@ public static void main(String[] args) {
 		int b1 = 200;
 		int c1 = 300;
 		
-		if(a>b & a1>c1){//false & false = false
+		if(a1>b1 & a1>c1){//false & false = false
 			System.out.println("a1 is the greatest");
 		}
 		else if(b1>c1){

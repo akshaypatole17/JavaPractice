@@ -26,7 +26,7 @@ public class StaticAndNonStaticConcept {
 			System.out.println(obj.name);
 			
 			//Can I access static methods using object reference? Yes.
-			//But it give waring that it should be access in a static way.
+			//But it gives warning that it should be access in a static way.
 			obj.sum();
 		}
 		

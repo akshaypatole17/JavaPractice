@@ -18,7 +18,7 @@ public static void main(String[] args) {
 		b.credit();
 		b.debit();
 		b.transfermoney();//Only overriden methods will be called.
-		
+
 	}
 
 

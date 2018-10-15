@@ -36,9 +36,9 @@ public class StringConcatenation {
 			
 			System.out.println(a);
 			
-			System.out.println("The vale of a is:"+a);
+			System.out.println("The value of a is:"+a);
 			
-			System.out.println("The vale of b is:"+b);
+			System.out.println("The value of b is:"+b);
 			
 			System.out.println("The addition of a and b is:"+(a+b));
 			
